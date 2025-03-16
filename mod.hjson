@@ -1,5 +1,5 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "TLMSa"
 
 #the internal name of your mod
 name: "example-java-mod"
@@ -8,16 +8,16 @@ name: "example-java-mod"
 author: "You"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "example.TLMSa"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "TLMSa"
 
 #the mod version
 version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: 145
+minGameVersion: 136
 
 #this is a java mod
 java: true
